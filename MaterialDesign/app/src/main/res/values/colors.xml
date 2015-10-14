@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#f2f2f2</color>
+    <color name="primaryColorDark">#48bbbd</color>
+    <color name="textColorPrimary">#000000</color>
+    <color name="accentColor">#000</color>
+    <color name="appBar_backgroundColor">#48bbbd</color>
+    <color name="windownBackground">#fff</color>
+    <color name="fragmentLinearBackground">#48bbbd</color>
+    <color name="fragment_full_background">#454545</color>
+</resources>

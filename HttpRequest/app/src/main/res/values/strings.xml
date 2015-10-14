@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HttpRequest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="Send_Request">Send Request</string>
+    <string name="action_settings">Settings</string>
+</resources>
